@@ -1,0 +1,37 @@
+/*FORMATEANDO ESTILOS*/
+body {
+    text-align: center;
+    color: #000000;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.text-logo {
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    color: white;
+}
+
+h4 {
+    text-align: start;
+}
+
+ul {
+    padding: 20px;
+}
+
+ul li {
+    list-style-type: none;
+    text-align: start;
+
+}
+
+ol li {
+    text-align: start;
+}
